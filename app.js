@@ -1,3 +1,5 @@
+alert("This converter may not work now as the API server is currently under maintainance");
+ 
  const Base_URL="https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies"; 
 
  const dropdowns =document.querySelectorAll(".dropdown select");
